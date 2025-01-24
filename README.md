@@ -2,7 +2,7 @@
 
 ## Computación Gráfica
 
-### Integgrantes
+### Integrantes
 
 * Nicolás Hoyos
 * Miguel Muñoz
