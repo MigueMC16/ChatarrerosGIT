@@ -9,3 +9,4 @@
 * Sara Posada
 
 Actualización Ubicación Proyecto
+Ahora la carpeta de "Proyecto Chatarreros" se encuentra dentro de la carpeta "ChatarrerosGIT"
