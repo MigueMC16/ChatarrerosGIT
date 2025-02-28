@@ -20,5 +20,5 @@ Ahora la carpeta de "Proyecto Chatarreros" se encuentra dentro de la carpeta "Ch
 
 #### Nicolás Hoyos:
 
-![](SlashNicolas1.gif)
-![](SlashNicolas2.gif)
+![](MuestrasReadme/SlashNicolas1.gif)
+![](MuestrasReadme/SlashNicolas2.gif)
