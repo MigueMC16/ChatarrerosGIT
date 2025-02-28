@@ -15,8 +15,8 @@ Ahora la carpeta de "Proyecto Chatarreros" se encuentra dentro de la carpeta "Ch
 
 #### Miguel Muñoz: 
 
-![](MuestrasReadme/SlashMuñoz1.gif)
-![](MuestrasReadme/SlashMuñoz2.gif)
+![](MuestrasReadme/SlashMuñoz3.gif)
+![](MuestrasReadme/SlashMuñoz4.gif)
 
 #### Nicolás Hoyos:
 
