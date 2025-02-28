@@ -11,11 +11,14 @@
 Actualización Ubicación Proyecto
 Ahora la carpeta de "Proyecto Chatarreros" se encuentra dentro de la carpeta "ChatarrerosGIT"
 
+### Entrega 1 "Slash"
 
-### Muestras Slash Blade 
+#### Miguel Muñoz: 
 
-#### Nicolas Hoyos Correa
+![](GIF1.gif)
+![](GIF2.gif)
 
-![Muestra:](Muestras-Readme/SlashNicolas1.gif)
+#### Nicolás Hoyos:
 
-![Muestra:](Muestras-Readme/SlashNicolas2.gif)
+![](SlashNicolas1.gif)
+![](SlashNicolas2.gif)
