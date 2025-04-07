@@ -14,7 +14,8 @@ Ahora la carpeta de "Proyecto Chatarreros" se encuentra dentro de la carpeta "Ch
 
 ### Entrega 2 Grupal
 
-### Inserte GIF Aquí
+![](MuestrasReadme/Actividad2-1.gif)
+![](MuestrasReadme/Actividad2-2.gif)
 
 
 ### Entrega 1 "Slash"
