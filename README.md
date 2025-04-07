@@ -11,6 +11,12 @@
 Actualización Ubicación Proyecto
 Ahora la carpeta de "Proyecto Chatarreros" se encuentra dentro de la carpeta "ChatarrerosGIT"
 
+
+### Entrega 2 Grupal
+
+### Inserte GIF Aquí
+
+
 ### Entrega 1 "Slash"
 
 #### Miguel Muñoz: 
