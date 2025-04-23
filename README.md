@@ -8,11 +8,70 @@
 * Miguel Muñoz
 * Sara Posada
 
-Actualización Ubicación Proyecto
-Ahora la carpeta de "Proyecto Chatarreros" se encuentra dentro de la carpeta "ChatarrerosGIT"
+### Entrega 3 "Shaders Personalizados"
+
+#### Shader 1: Textura de Máscara Multicanal
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+#### Shader 2: Máscara Radial
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+#### Shader 3: Distorsión
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+#### Shader 4: Movimiento de Humo
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+#### Shader 5: Erosión
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+#### Shader 6: Disolver Textura
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+#### Shader 7: Coordenadas UV procedurales
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+#### Shader 8: Textura en Espejo
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+#### Shader 9: Matcap
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+#### Shader 10: Intersección con ruido
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
 
 
-### Entrega 2 Grupal
+### Entrega 2 "Explosión"
 
 ![](MuestrasReadme/Actividad2-1.gif)
 ![](MuestrasReadme/Actividad2-2.gif)
