@@ -1,10 +1,11 @@
-Shader "Custom/PolarShader"
+Shader "Custom/PolarTextureShader"
 {
     Properties
     {
+        _MainTex ("Texture", 2D) = "white" {}
         _MainColor ("Main Color", Color) = (1,1,1,1)
-        _TilingX ("Tiling X", Range(0,10)) = 1
-        _TilingY ("Tiling Y", Range(0,10)) = 1
+        _TilingX ("Tiling R (rings)", Range(0,10)) = 1
+        _TilingY ("Tiling Theta (twists)", Range(0,10)) = 1
     }
     SubShader
     {
@@ -16,7 +17,9 @@ Shader "Custom/PolarShader"
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
+            #include "UnityCG.cginc"
 
+            sampler2D _MainTex;
             float4 _MainColor;
             float _TilingX;
             float _TilingY;
@@ -43,26 +46,20 @@ Shader "Custom/PolarShader"
 
             fixed4 frag (v2f i) : SV_Target
             {
-                // Centrar las coordenadas UV (ahora están entre -0.5 y 0.5)
-                float2 centeredUV = (i.uv - 0.5) * float2(_TilingX, _TilingY);
+                float2 centeredUV = i.uv - 0.5;
 
-                // Coordenadas polares
-                float r = length(centeredUV); // sqrt(x^2 + y^2)
-                float theta = atan2(centeredUV.y, centeredUV.x); // atan(y/x), con corrección de cuadrante
+                float r = length(centeredUV);
+                float theta = atan2(centeredUV.y, centeredUV.x); // [-PI, PI]
 
-                // Normalizar theta de [-PI, PI] a [0, 1]
                 float normTheta = (theta + 3.14159265) / (2.0 * 3.14159265);
 
-                // Usamos r y theta para crear un patrón. Por ejemplo, anillos radiales.
-                float rings = sin(r * 10.0); // más frecuencia = más anillos
+                // Aplica tiling en coordenadas polares
+                float2 polarUV = float2(r * _TilingX, normTheta * _TilingY);
 
-                // Otra opción: bandas angulares
-                float stripes = sin(normTheta * 20.0);
+                // frac() para repetir entre 0 y 1
+                fixed4 texColor = tex2D(_MainTex, frac(polarUV));
 
-                // Combinamos ambos efectos
-                float finalPattern = saturate((rings + stripes) * 0.5);
-
-                return finalPattern * _MainColor;
+                return texColor * _MainColor;
             }
             ENDCG
         }
