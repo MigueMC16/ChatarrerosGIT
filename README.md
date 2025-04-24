@@ -52,11 +52,15 @@
 
 2. GIF del Shader Funcionando
 
+![](MuestrasReadme/ShaderPolar.gif)
+
 #### Shader 8: Textura en Espejo
 
 1. Captura Árbol de nodos
 
 2. GIF del Shader Funcionando
+
+![](MuestrasReadme/ShaderMirror.gif)
 
 #### Shader 9: Matcap
 
