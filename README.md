@@ -80,11 +80,11 @@
 
 1. Captura Árbol de nodos
 
-![](MuestrasReadme/Matcap.png)
+![](MuestrasReadme/ShaderMatcap.png)
 
 2. GIF del Shader Funcionando
 
-![](MuestrasReadme/Matcap.gif)
+![](MuestrasReadme/ShaderMatcap.gif)
 
 #### Shader 10: Intersección con ruido
 
