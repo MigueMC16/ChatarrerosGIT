@@ -42,7 +42,7 @@ Material:
     - _QueueOffset: 0
     m_Colors:
     - _DistortionPower: {r: 1, g: 1, b: 0, a: 0}
-    - _DistortionSpeed: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _DistortionSpeed: {r: 0.28, g: 0.1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &4234767545796658406
 MonoBehaviour:

@@ -58,6 +58,6 @@ Material:
     - _QueueOffset: 0
     m_Colors:
     - _Blue: {r: 0, g: 0, b: 1, a: 0}
-    - _Green: {r: 0, g: 1, b: 0, a: 0}
-    - _Red: {r: 1, g: 0, b: 0, a: 0}
+    - _Green: {r: 1, g: 0.08889568, b: 0, a: 0}
+    - _Red: {r: 0.89433956, g: 0.86267686, b: 0.261552, a: 0}
   m_BuildTextureStacks: []

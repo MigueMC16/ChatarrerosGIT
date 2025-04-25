@@ -14,19 +14,31 @@
 
 1. Captura Árbol de nodos
 
+![](MuestrasReadme/ShaderMultichannel.png)
+
 2. GIF del Shader Funcionando
+
+![](MuestrasReadme/ShaderMultichannel.gif)
 
 ### Shader 2: Máscara Radial
 
 1. Captura Árbol de nodos
 
+![](MuestrasReadme/ShaderRadial.png)
+
 2. GIF del Shader Funcionando
+
+![](MuestrasReadme/ShaderRadial.gif)
 
 ### Shader 3: Distorsión
 
 1. Captura Árbol de nodos
 
+![](MuestrasReadme/ShaderDistortion.png)
+
 2. GIF del Shader Funcionando
+
+![](MuestrasReadme/ShaderDistortion.gif)
 
 ### Shader 4: Movimiento de Humo
 
