@@ -32,19 +32,33 @@
 
 1. Captura Árbol de nodos
 
+![](MuestrasReadme/ShaderHumo1.png)
+
+![](MuestrasReadme/ShaderHumo2.png)
+
 2. GIF del Shader Funcionando
+
+![](MuestrasReadme/ShaderHumo.gif)
 
 #### Shader 5: Erosión
 
 1. Captura Árbol de nodos
 
+![](MuestrasReadme/ShaderErosion.png)
+
 2. GIF del Shader Funcionando
+
+![](MuestrasReadme/ShaderErosion.gif)
 
 #### Shader 6: Disolver Textura
 
 1. Captura Árbol de nodos
 
+![](MuestrasReadme/ShaderDissolve.png)
+
 2. GIF del Shader Funcionando
+
+![](MuestrasReadme/ShaderDissolve.gif)
 
 #### Shader 7: Coordenadas UV procedurales
 
@@ -66,7 +80,11 @@
 
 1. Captura Árbol de nodos
 
+![](MuestrasReadme/Matcap.png)
+
 2. GIF del Shader Funcionando
+
+![](MuestrasReadme/Matcap.gif)
 
 #### Shader 10: Intersección con ruido
 

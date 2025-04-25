@@ -64,11 +64,11 @@ Material:
     - _Blend: 0
     - _CastShadows: 0
     - _Cull: 2
-    - _DissolveSmoothness: 0.02
-    - _DissolveStart: 0.35
+    - _DissolveSmoothness: 0.01
+    - _DissolveStart: 0.3
     - _DstBlend: 10
-    - _ErosionStrength: 0.82
-    - _NoiseScale: 8.99
+    - _ErosionStrength: 1.17
+    - _NoiseScale: 8.19
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
