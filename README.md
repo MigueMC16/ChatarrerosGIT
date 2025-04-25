@@ -72,7 +72,13 @@
 
 1. Captura Árbol de nodos
 
+![](MuestrasReadme/ShaderInterception1.png)
+
+![](MuestrasReadme/ShaderInterception1.png)
+
 2. GIF del Shader Funcionando
+
+![](MuestrasReadme/ShaderInterception.gif)
 
 
 ### Entrega 2 "Explosión"
