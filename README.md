@@ -8,27 +8,27 @@
 * Miguel Muñoz
 * Sara Posada
 
-### Entrega 3 "Shaders Personalizados"
+## Entrega 3 "Shaders Personalizados"
 
-#### Shader 1: Textura de Máscara Multicanal
-
-1. Captura Árbol de nodos
-
-2. GIF del Shader Funcionando
-
-#### Shader 2: Máscara Radial
+### Shader 1: Textura de Máscara Multicanal
 
 1. Captura Árbol de nodos
 
 2. GIF del Shader Funcionando
 
-#### Shader 3: Distorsión
+### Shader 2: Máscara Radial
 
 1. Captura Árbol de nodos
 
 2. GIF del Shader Funcionando
 
-#### Shader 4: Movimiento de Humo
+### Shader 3: Distorsión
+
+1. Captura Árbol de nodos
+
+2. GIF del Shader Funcionando
+
+### Shader 4: Movimiento de Humo
 
 1. Captura Árbol de nodos
 
@@ -40,7 +40,7 @@
 
 ![](MuestrasReadme/ShaderHumo.gif)
 
-#### Shader 5: Erosión
+### Shader 5: Erosión
 
 1. Captura Árbol de nodos
 
@@ -50,7 +50,7 @@
 
 ![](MuestrasReadme/ShaderErosion.gif)
 
-#### Shader 6: Disolver Textura
+### Shader 6: Disolver Textura
 
 1. Captura Árbol de nodos
 
@@ -60,7 +60,7 @@
 
 ![](MuestrasReadme/ShaderDissolve.gif)
 
-#### Shader 7: Coordenadas UV procedurales
+### Shader 7: Coordenadas UV procedurales
 
 En este Shader hubo una particularidad: Se realizó un shader en HSLS por un error de concepto en la rúbrica. Si bien también hay árbol de nodos y la funcionalidad es la misma, 
 se dejan ambas versiones como evidencia de trabajo. 
@@ -149,7 +149,7 @@ Shader "Custom/PolarTextureShader"
 
 ![](MuestrasReadme/ShaderPolar.gif)
 
-#### Shader 8: Textura en Espejo
+### Shader 8: Textura en Espejo
 
 Para la textura en espejo también se realizaron dos versiones, pues la funcionalidad del árbol de nodos convencía del todo y hay una segunda versión con un CustomShader en HSLS
 
@@ -230,7 +230,7 @@ Shader "Custom/MirrorTexture"
 
 ![](MuestrasReadme/ShaderMirror.gif)
 
-#### Shader 9: Matcap
+### Shader 9: Matcap
 
 1. Captura Árbol de nodos
 
@@ -240,7 +240,7 @@ Shader "Custom/MirrorTexture"
 
 ![](MuestrasReadme/ShaderMatcap.gif)
 
-#### Shader 10: Intersección con ruido
+### Shader 10: Intersección con ruido
 
 1. Captura Árbol de nodos
 
@@ -253,7 +253,10 @@ Shader "Custom/MirrorTexture"
 ![](MuestrasReadme/ShaderInterception.gif)
 
 
-### Entrega 2 "Explosión"
+
+
+
+## Entrega 2 "Explosión"
 
 ![](MuestrasReadme/Actividad2-1.gif)
 ![](MuestrasReadme/Actividad2-2.gif)
