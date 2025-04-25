@@ -48,7 +48,7 @@ Material:
     - _CastShadows: 1
     - _Cull: 2
     - _DstBlend: 10
-    - _IntersecptionDepth: 20
+    - _IntersecptionDepth: 7
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
@@ -59,8 +59,8 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _IntersepctionColor: {r: 0, g: 0.1341176, b: 1, a: 1}
-    - _InterseptionNoiseSpeed: {r: 1, g: 0, b: 0, a: 0}
+    - _IntersepctionColor: {r: 0, g: 1.5173675, b: 11.313708, a: 1}
+    - _InterseptionNoiseSpeed: {r: 0.5, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7474392321389346875
 MonoBehaviour:
