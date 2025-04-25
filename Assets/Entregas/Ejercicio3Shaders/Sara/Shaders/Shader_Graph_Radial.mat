@@ -50,9 +50,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Mask: 0.49
+    - _Mask: -0.02
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SmoothMask: 1.13
+    - _SmoothMask: 2.38
     m_Colors: []
   m_BuildTextureStacks: []
