@@ -74,7 +74,7 @@
 
 ![](MuestrasReadme/ShaderInterception1.png)
 
-![](MuestrasReadme/ShaderInterception1.png)
+![](MuestrasReadme/ShaderInterception2.png)
 
 2. GIF del Shader Funcionando
 
