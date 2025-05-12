@@ -37,7 +37,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _FoamNormal:
-        m_Texture: {fileID: 2800000, guid: e5a22969d4e67434fac65e8c3f5876b2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 184d75923103fd84aaf2b7c5ef1c86b5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _RefractionNormals:
@@ -62,22 +62,22 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DisplacementAmount: 0.1
-    - _Distance: 0.6
-    - _FoamAmount: 2
-    - _FoamCutoff: 0.3
-    - _FoamScale: 20
-    - _FoamSpeed: 1
+    - _DisplacementAmount: 1.3
+    - _Distance: 0.95
+    - _FoamAmount: 29.1
+    - _FoamCutoff: 109.64
+    - _FoamScale: 1.2
+    - _FoamSpeed: 0.94
     - _NormalStrength: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionSpeed: 0.3
-    - _RefractionStrength: 0
+    - _RefractionSpeed: 0.03
+    - _RefractionStrength: 2
     m_Colors:
-    - _DIsplacementTiling: {r: 1, g: 1, b: 0, a: 0}
-    - _DeepColor: {r: 0.07228904, g: 0.101030566, b: 0.5396226, a: 1}
-    - _DipsplacementVelocity: {r: 0.1, g: 0.1, b: 0, a: 0}
-    - _FoamColor: {r: 0.9773585, g: 0.9773585, b: 0.9773585, a: 1}
-    - _RefractionScale: {r: 0, g: 0, b: 0, a: 0}
-    - _SurfaceColor: {r: 0, g: 0.8625183, b: 0.95471686, a: 1}
+    - _DIsplacementTiling: {r: 0, g: 0, b: 0, a: 0}
+    - _DeepColor: {r: 0.07228901, g: 0.101030536, b: 0.5396226, a: 0.41960785}
+    - _DipsplacementVelocity: {r: 0.1, g: 0.08, b: 0, a: 0}
+    - _FoamColor: {r: 0.9773585, g: 0.9773585, b: 0.9773585, a: 0.80784315}
+    - _RefractionScale: {r: 0.2, g: 0.2, b: 0, a: 0}
+    - _SurfaceColor: {r: 0, g: 0.8625183, b: 0.95471686, a: 0.7176471}
   m_BuildTextureStacks: []
