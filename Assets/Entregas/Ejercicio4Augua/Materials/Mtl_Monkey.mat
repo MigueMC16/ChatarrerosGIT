@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2831119776912275419
+--- !u!114 &-7782209097829625539
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Mtl_Monkey
-  m_Shader: {fileID: -6465566751694194690, guid: 539450b897a734748be9c4623b32c852, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 19b1d620b8eea6f4ba49a80a5330ec58, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -53,5 +53,5 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 0.7490196, g: 0.34786308, b: 0.25490198, a: 0}
+    - _Color: {r: 0.9245283, g: 0.76227576, b: 0.075008824, a: 0}
   m_BuildTextureStacks: []

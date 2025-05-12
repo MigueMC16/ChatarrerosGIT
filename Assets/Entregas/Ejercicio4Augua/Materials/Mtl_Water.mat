@@ -50,7 +50,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Alfa: 0.9
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    - _Strenght: 0.05
+    - _WaveAmplitude: 0.21
+    - _WaveCount: 2.78
+    m_Colors:
+    - _TintColor: {r: 0, g: 0, b: 51.1, a: 0.01}
   m_BuildTextureStacks: []

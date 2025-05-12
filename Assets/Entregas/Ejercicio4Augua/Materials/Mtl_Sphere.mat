@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2831119776912275419
+--- !u!114 &-8694566989312823737
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mtl_Square
-  m_Shader: {fileID: -6465566751694194690, guid: 539450b897a734748be9c4623b32c852, type: 3}
+  m_Name: Mtl_Sphere
+  m_Shader: {fileID: -6465566751694194690, guid: 19b1d620b8eea6f4ba49a80a5330ec58, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -53,5 +53,5 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 0.7509433, g: 0.6588649, b: 0.25362042, a: 0}
+    - _Color: {r: 0.7509433, g: 0.19694544, b: 0.19694544, a: 0}
   m_BuildTextureStacks: []

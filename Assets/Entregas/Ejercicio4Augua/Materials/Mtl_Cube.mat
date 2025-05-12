@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2831119776912275419
+--- !u!114 &-9164605745495351538
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mtl_Circle
-  m_Shader: {fileID: -6465566751694194690, guid: 539450b897a734748be9c4623b32c852, type: 3}
+  m_Name: Mtl_Cube
+  m_Shader: {fileID: -6465566751694194690, guid: 19b1d620b8eea6f4ba49a80a5330ec58, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -53,5 +53,5 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 0.42293185, g: 0.7490196, b: 0.25490198, a: 0}
+    - _Color: {r: 0.46930042, g: 0.8113208, b: 0.10868638, a: 0}
   m_BuildTextureStacks: []
