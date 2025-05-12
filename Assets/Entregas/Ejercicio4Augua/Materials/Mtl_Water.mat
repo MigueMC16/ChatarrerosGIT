@@ -51,11 +51,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _Alfa: 0.9
+    - _LightReflection: 0.6
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Strenght: 0.05
     - _WaveAmplitude: 0.21
     - _WaveCount: 2.78
     m_Colors:
+    - _ReflectionColor: {r: 0, g: 100, b: 100, a: 0}
     - _TintColor: {r: 0, g: 0, b: 51.1, a: 0.01}
   m_BuildTextureStacks: []
