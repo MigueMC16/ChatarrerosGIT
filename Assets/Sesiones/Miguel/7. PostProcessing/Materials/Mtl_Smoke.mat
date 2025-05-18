@@ -54,9 +54,26 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _DisplacementStrenght: 0.1
+    - _FresnelPower: 0.8
+    - _NoiseScale: 10
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Speed: {r: 0.05, g: 0.28, b: 0, a: 0}
+    - _Color: {r: 0.29666197, g: 0.9176471, b: 0.28235298, a: 0}
+    - _Color_1: {r: 0.7115294, g: 0.9176471, b: 0.28235298, a: 0}
+    - _Color_2: {r: 0.7115294, g: 0.9176471, b: 0.28235298, a: 0}
+    - _Color_3: {r: 0.7115294, g: 0.9176471, b: 0.28235298, a: 0}
+    - _NoiseColor: {r: 0.01528652, g: 0.42641503, b: 0.21060812, a: 0}
+    - _NoiseColor_1: {r: 0.01528652, g: 0.42641503, b: 0.21060812, a: 0}
+    - _NoiseColor_2: {r: 0.19802767, g: 0.8264151, b: 0.30515906, a: 0}
+    - _NoiseColor_3: {r: 0.062349543, g: 0.23773575, b: 0.20080715, a: 0}
+    - _NoiseTiling: {r: 0.5, g: 0.96, b: 0, a: 0}
+    - _NoiseTiling_3: {r: 0.7, g: 0.7, b: 0, a: 0}
+    - _Speed: {r: 0.05, g: -0.2, b: 0, a: 0}
     - _SphericalCoverage: {r: 0.97, g: -0.44, b: 0, a: 0}
+    - _SphericalCoverage_1: {r: 0, g: 0.3, b: 0, a: 0}
+    - _SphericalCoverage_2: {r: 0, g: 0.1, b: 0, a: 0}
+    - _SphericalCoverage_3: {r: 0, g: 0.1, b: 0, a: 0}
+    - _Velocity: {r: 0.1, g: 0.1, b: 0, a: 0}
   m_BuildTextureStacks: []
