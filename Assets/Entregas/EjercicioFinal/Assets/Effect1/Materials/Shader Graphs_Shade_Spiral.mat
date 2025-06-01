@@ -41,9 +41,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _RotationSpeed: 1
-    - _RotationSpeed2: -1
-    m_Colors: []
+    - _DisplacementStrenght: 0.15
+    - _NoiseScale: 1.5
+    - _RotationSpeed: 3
+    - _RotationSpeed2: -3
+    m_Colors:
+    - _Color1: {r: 0.8400717, g: 0, b: 0.85490197, a: 0}
+    - _Color2: {r: 0.18272194, g: 0.0140334405, b: 0.2754717, a: 0}
+    - _NoiseSpeed: {r: 0.5, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &1360354292578472382
 MonoBehaviour:
