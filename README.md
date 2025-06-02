@@ -12,6 +12,7 @@
 
 Link: https://ataraxia204.itch.io/demo-efectos-cg
 
+(Reproducir en pantalla completa en Chrome)
 
 ## Entrega 4 "Agua"
 
