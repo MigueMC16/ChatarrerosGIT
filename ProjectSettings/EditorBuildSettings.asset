@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Entregas/EjercicioFinal/Assets/Interfaz/Scene/VFX Template.unity
+    guid: 412eeeeb058b1d74480fcc107e6eca7f
   m_configObjects: {}

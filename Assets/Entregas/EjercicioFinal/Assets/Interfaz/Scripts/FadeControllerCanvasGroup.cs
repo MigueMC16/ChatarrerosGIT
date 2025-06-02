@@ -7,6 +7,11 @@ public class FadeControllerCanvasGroup : MonoBehaviour
     [Header("Referencia al CanvasGroup que cubre toda la pantalla (fondo negro)")]
     [SerializeField] private CanvasGroup panelFade;
 
+    [Header("Objetos")]
+    [SerializeField] private GameObject go1;
+    [SerializeField] private GameObject go2;
+    
+
     [Header("Director")]
     [SerializeField] private GameObject objetoDirector;
     [SerializeField] private GameObject objetoDirector2;
@@ -20,6 +25,7 @@ public class FadeControllerCanvasGroup : MonoBehaviour
     private void Awake()
     {
         objetoDirector.gameObject.SetActive(true);
+        objetoDirector2.gameObject.SetActive(true);
 
         controller = objetoDirector.GetComponent<DirectorController>();
         controller2 = objetoDirector.GetComponent<DirectorController>();
@@ -56,9 +62,22 @@ public class FadeControllerCanvasGroup : MonoBehaviour
         panelFade.gameObject.SetActive(true);
 
         controller.StopDirector();
+
         controller2.StopDirector();
 
         StartCoroutine(FadeSequence());
+
+        controller.StopDirector();
+
+        objetoDirector.gameObject.SetActive(false);
+    }
+
+    private void ToggleObject()
+    {
+        go1.gameObject.SetActive(true);
+        go2.gameObject.SetActive(false);
+        
+        
     }
 
     private IEnumerator FadeSequence()
@@ -80,12 +99,16 @@ public class FadeControllerCanvasGroup : MonoBehaviour
 
         panelFade.gameObject.SetActive(false);
 
-        
+
     }
 
    private IEnumerator StartAnimationToFade()
     {
+        ToggleObject();
+
         yield return new WaitForSeconds(1.2f);
+
+        objetoDirector.gameObject.SetActive(true);
 
         controller.StartDirector();
 
